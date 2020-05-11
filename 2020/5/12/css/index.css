@@ -1,0 +1,14 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+    border: 0;
+    padding: 0;
+    background-color: lightgrey;
+}
+
+#main {
+    width: 100%;
+    height: 10%;
+    background-color: lightgreen;
+}
